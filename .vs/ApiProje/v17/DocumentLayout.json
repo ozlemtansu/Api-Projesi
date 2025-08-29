@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ApiProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\dtos\\productdto\\resultproductwithcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\dtos\\productdto\\resultproductwithcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|c:\\users\\user\\source\\repos\\apiproje\\apiproje.webapi\\dtos\\productdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13972B5-A564-490A-95D4-C30610674CA5}|ApiProje.WebApi\\ApiProje.WebApi.csproj|solutionrelative:apiproje.webapi\\dtos\\productdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChefsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Controllers\\ChefsController.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Controllers\\ChefsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Controllers\\ChefsController.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Controllers\\ChefsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:03:47.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Entities\\Category.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:03:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:03:45.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultProductWithCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Dtos\\ProductDto\\ResultProductWithCategoryDto.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Dtos\\ProductDto\\ResultProductWithCategoryDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Dtos\\ProductDto\\ResultProductWithCategoryDto.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Dtos\\ProductDto\\ResultProductWithCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:46:22.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:55:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Entities\\Product.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:26:21.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswF0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:26:11.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Dtos\\ProductDto\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "ApiProje.WebApi\\Dtos\\ProductDto\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ApiProje\\ApiProje.WebApi\\Dtos\\ProductDto\\CreateProductDto.cs",
+              "RelativeToolTip": "ApiProje.WebApi\\Dtos\\ProductDto\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:31:04.616Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
